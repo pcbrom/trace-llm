@@ -1,3 +1,21 @@
+# v1.0.0  pcbrom/trace-llm: v1.0.0 – TraCE-LLM Evaluation Datasets  
+# [DOI: 10.5072/zenodo.308498](https://handle.stage.datacite.org/10.5072/zenodo.308498)  
+# [v1.0.0 – TraCE-LLM Evaluation Datasets](https://github.com/pcbrom/trace-llm/releases/tag/v1.0.0)  
+
+Brom, P. C., Oliveira, V. D., & Weigang, L. (2025). *TraCE-LLM Evaluation Datasets* (Version v1.0.0) [Data set]. Zenodo. [https://doi.org/10.5072/zenodo.308498](https://doi.org/10.5072/zenodo.308498)  
+
+```bibtex
+@dataset{brom2025trace_llm,
+  author       = {Pedro Carvalho Brom and Vinícius Di Oliveira and Li Weigang},
+  title        = {TraCE-LLM Evaluation Datasets},
+  year         = {2025},
+  publisher    = {Zenodo},
+  version      = {v1.0.0},
+  doi          = {10.5072/zenodo.308498},
+  url          = {https://doi.org/10.5072/zenodo.308498}
+}
+```
+
 # Datasets Used in the TraCE-LLM Study
 
 The datasets provided correspond to the evaluation outputs and analytical views generated during the empirical study described in the article *"The Adversarial Compensation Effect: Identifying Hidden Instabilities in Large Language Model Evaluation"*.
