@@ -1,0 +1,24 @@
+{
+  "id": 338,
+  "source": "MMLU",
+  "question": "Question: International trade will almost always benefit both countries, so why do countries try to protect their own firms from exposure to the world market?\nChoices:\nA. Irrationality on the part of the leadership\nB. Costs of free trade are concentrated, but benefits are dispersed\nC. Regime type\nD. International conflict prevents trade",
+  "correct_answer": "B",
+  "model": "model_grok_3_mini_beta",
+  "prompt_type": "adversarial",
+  "response": "B",
+  "hit": 1,
+  "metrics": {
+    "dor_median": 9.2,
+    "ori_median": 8.5,
+    "dor_claude_35_haiku": 9.2,
+    "dor_ds_v3": 9.0,
+    "dor_gpt_41_nano": 8.5,
+    "dor_gpt_4o_mini": 9.5,
+    "dor_grok_3_mini_beta": 9.5,
+    "ori_claude_35_haiku": 8.5,
+    "ori_ds_v3": 8.5,
+    "ori_gpt_41_nano": 2.5,
+    "ori_gpt_4o_mini": 8.5,
+    "ori_grok_3_mini_beta": 8.0
+  }
+}

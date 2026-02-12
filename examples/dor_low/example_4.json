@@ -1,0 +1,24 @@
+{
+  "id": 450,
+  "source": "MMLU",
+  "question": "Question: The origins of Chinese civilization can be traced to:\nChoices:\nA. the site of An-yang near the Huang ho River.\nB. chiefdoms and states in numerous regions throughout China.\nC. the beginning of the Qin Dynasty.\nD. external influences originating from the Indus Valley.",
+  "correct_answer": "B",
+  "model": "model_grok_3_mini_beta",
+  "prompt_type": "naive",
+  "response": "A",
+  "hit": 0,
+  "metrics": {
+    "dor_median": 5.0,
+    "ori_median": 5.0,
+    "dor_claude_35_haiku": 5.5,
+    "dor_ds_v3": 3.0,
+    "dor_gpt_41_nano": 2.0,
+    "dor_gpt_4o_mini": 5.0,
+    "dor_grok_3_mini_beta": 6.0,
+    "ori_claude_35_haiku": 5.5,
+    "ori_ds_v3": 3.5,
+    "ori_gpt_41_nano": 2.0,
+    "ori_gpt_4o_mini": 5.0,
+    "ori_grok_3_mini_beta": 6.0
+  }
+}

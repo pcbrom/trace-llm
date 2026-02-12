@@ -1,0 +1,24 @@
+{
+  "id": 114,
+  "source": "ARC",
+  "question": "Question: Students studied the revolution of Earth around the Sun. During which month will Florida have the most sunlight energy available?\nChoices:\nA. March\nB. June\nC. September\nD. December",
+  "correct_answer": "B",
+  "model": "model_gpt_4o_mini",
+  "prompt_type": "cot",
+  "response": "B",
+  "hit": 1,
+  "metrics": {
+    "dor_median": 9.2,
+    "ori_median": 8.0,
+    "dor_claude_35_haiku": 9.2,
+    "dor_ds_v3": 9.0,
+    "dor_gpt_41_nano": 9.5,
+    "dor_gpt_4o_mini": 9.0,
+    "dor_grok_3_mini_beta": 9.5,
+    "ori_claude_35_haiku": 8.5,
+    "ori_ds_v3": 7.5,
+    "ori_gpt_41_nano": 8.0,
+    "ori_gpt_4o_mini": 8.5,
+    "ori_grok_3_mini_beta": 6.0
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": 6580,
+  "source": "HellaSwag",
+  "item": "Context: [header] How to choose a platinum ring [title] Choose a ring with high purity. [step] As with all precious metals, platinum must be alloyed with other metals in order to achieve the hardness required for jewelry. It is often alloyed with non-precious metals like copper or cobalt.\nOptions:\nA. Pure platinum can also be suited with platinum, as it has the good coating over it and is made from lithium. Pure platinum rings are free from rust, and have titanium or zinc pieces.\nB. This may not seem like a key element to use with platinum, but it is a key element-anything with high purity values is a good choice. You can choose to have one less metal in your ring, but you cannot get only one.\nC. Precious metals need no other metals than platinum (the type of platinum) for their purity. Higher purity titanium is usually commonly used for platinum rings because the gemstones in the platinum are more precious, while extremely precious metals have the jewelry's subpar purity.\nD. Although it may not be 100% pure, it is often purer than other precious metals, like gold. [substeps] A ring that is 95% pure will be an expensive, but worthwhile choice.",
+  "model": "model_grok_3_mini_beta",
+  "prompt_type": "cot",
+  "hit": 1,
+  "metrics": {
+    "DoR_mean": 9.040000000000001,
+    "ORI_mean": 5.0
+  }
+}

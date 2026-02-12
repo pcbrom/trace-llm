@@ -1,0 +1,16 @@
+model,prompt_type,n_cases,hit_rate,dor_mean,dor_std,ori_mean,ori_std
+model_claude_35_haiku,adversarial,675,0.8237,8.8003,0.4984,6.8822,0.8641
+model_claude_35_haiku,cot,675,0.8578,8.6535,0.5318,6.4703,0.8091
+model_claude_35_haiku,naive,675,0.8326,7.3923,0.9733,5.5075,0.8613
+model_ds_v3,adversarial,675,0.7570,8.4410,0.6041,6.3457,0.6737
+model_ds_v3,cot,675,0.8889,8.6360,0.4648,6.1571,0.7679
+model_ds_v3,naive,675,0.8904,7.1577,0.8956,5.1070,0.7578
+model_gpt_41_nano,adversarial,675,0.7393,8.7240,0.5313,6.5568,0.7041
+model_gpt_41_nano,cot,675,0.8504,8.6414,0.5783,6.2268,0.7293
+model_gpt_41_nano,naive,675,0.8593,6.7313,0.9406,4.9223,0.7390
+model_gpt_4o_mini,adversarial,675,0.7452,8.8303,0.4550,6.6047,0.7019
+model_gpt_4o_mini,cot,675,0.7541,8.6031,0.6802,6.3157,0.8328
+model_gpt_4o_mini,naive,675,0.6978,6.7610,1.1563,5.0308,0.7963
+model_grok_3_mini_beta,adversarial,675,0.8563,8.7818,0.3728,6.8794,0.6117
+model_grok_3_mini_beta,cot,675,0.9126,9.0168,0.2835,6.6198,0.7409
+model_grok_3_mini_beta,naive,675,0.9111,6.9057,0.8007,4.9883,0.7570

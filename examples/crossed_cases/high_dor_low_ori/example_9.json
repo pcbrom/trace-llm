@@ -1,0 +1,12 @@
+{
+  "id": 4675,
+  "source": "HellaSwag",
+  "item": "Context: [header] How to have healthy, shiny silky hair [title] Handle your hair gently when you wash and dry it. [step] The way you handle your hair makes a big difference in its texture and appearance. When you're rough with your hair, it can frizz up and start looking dull.\nOptions:\nA. Hair is a fragile material that should be handled with care, just like a delicate piece of fabric. Here's what to keep in mind : [substeps] When you shampoo your hair don't roughly scrub it.\nB. Keep an oil in it that's right for you when it's tangled. If you have curly hair, take off any curls or flyaways so your hair is wavy.\nC. Whenever possible, use a light product on your hair and blow dry it. This will help maintain your silky hair despite its lack of frizz.\nD. Help prevent this by using a serlier or diffuser when you're washing and drying it. Use a diffuser if your hair gets too stiff while you wash it.",
+  "model": "model_gpt_4o_mini",
+  "prompt_type": "adversarial",
+  "hit": 1,
+  "metrics": {
+    "DoR_mean": 9.040000000000001,
+    "ORI_mean": 5.2
+  }
+}

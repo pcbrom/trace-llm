@@ -1,0 +1,42 @@
+{
+    "title": "TraCE-LLM: Evaluation datasets and pipeline (v2.3)",
+    "version": "2.3",
+    "description": "This repository contains the core assets used in the TraCE-LLM study described in the article 'The Adversarial Compensation Effect: Identifying Hidden Instabilities in Large Language Model Evaluation'. The project is centered on the TraCE-LLM protocol, which measures latent behavioral traits of Large Language Models (LLMs) using a multidimensional rubric with two primary dimensions: Depth of Reasoning (DoR) and Originality (ORI). It includes benchmark test splits (ARC-Challenge, MMLU, HellaSwag), an N=500 evaluation sample, human evaluation baselines, aggregated statistics, curated illustrative examples, and the complete analysis pipeline as Jupyter notebooks.",
+    "upload_type": "dataset",
+    "publication_date": "2026-02-09",
+    "creators": [
+        {
+            "name": "Brom, Pedro Carvalho",
+            "affiliation": "blackbeltR"
+        },
+        {
+            "name": "Di Oliveira, Vinícius",
+            "orcid": "0000-0002-1295-5221"
+        },
+        {
+            "name": "Weigang, Li",
+            "affiliation": "University of Brasilia",
+            "orcid": "0000-0003-1826-1850"
+        }
+    ],
+    "keywords": [
+        "large language models",
+        "LLM evaluation",
+        "adversarial compensation effect",
+        "chain-of-thought",
+        "depth of reasoning",
+        "originality",
+        "benchmark",
+        "NLP"
+    ],
+    "license": "cc-by-nc-sa-4.0",
+    "related_identifiers": [
+        {
+            "identifier": "https://github.com/pcbrom/trace-llm",
+            "relation": "isSupplementTo",
+            "resource_type": "software",
+            "scheme": "url"
+        }
+    ],
+    "notes": "Commercial use requires a separate written agreement. Contact: pcbrom@gmail.com"
+}

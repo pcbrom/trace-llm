@@ -1,0 +1,24 @@
+{
+  "id": 142,
+  "source": "ARC",
+  "question": "Question: In Nevada's Black Desert on October 15, 1997, Andy Green traveled a measured distance at an average speed of 339 meters per second in a jet-powered car called \"Thrust.\" Andy was the first person to\nChoices:\nA. use the Doppler effect.\nB. drive in a jet-fueled car.\nC. cross Nevada's Black Desert.\nD. break the sound barrier on ground.",
+  "correct_answer": "D",
+  "model": "model_claude_35_haiku",
+  "prompt_type": "adversarial",
+  "response": "D",
+  "hit": 1,
+  "metrics": {
+    "dor_median": 9.5,
+    "ori_median": 7.5,
+    "dor_claude_35_haiku": 9.2,
+    "dor_ds_v3": 9.5,
+    "dor_gpt_41_nano": 9.5,
+    "dor_gpt_4o_mini": 9.0,
+    "dor_grok_3_mini_beta": 9.5,
+    "ori_claude_35_haiku": 7.5,
+    "ori_ds_v3": 7.5,
+    "ori_gpt_41_nano": 8.2,
+    "ori_gpt_4o_mini": 7.5,
+    "ori_grok_3_mini_beta": 6.5
+  }
+}

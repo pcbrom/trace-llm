@@ -1,0 +1,10 @@
+# Zenodo publish scripts (one-time use)
+zenodo_publish_*.sh
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Environment
+.env

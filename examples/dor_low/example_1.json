@@ -1,0 +1,24 @@
+{
+  "id": 482,
+  "source": "HellaSwag",
+  "question": "Context: [header] How to layer sheer clothing [title] Put a sheer shirt on over a bra. [step] This is the easiest and most common way to layer sheer clothing. Put on a bra or tank top (if you don't want to show your stomach) for the underneath layer.\nOptions:\nA. If you want to make sure your shirt doesn't completely cover your breast, you can wear tights to cover your skin. This creates the appearance of your bra through the shirt.\nB. [substeps] You don't have to layer a bra with top. Keep in mind it might get lumpy as you layer.\nC. For the top, sheer layer, you can wear a sheer t-shirt, button-down, or a lace shirt. You can find lace shirts with designs, such as flowers, for a more interesting look.\nD. [substeps] Cut a slit into the cotton about 1/8th of an inch from the edge of the neckline. Tie a piece of yarn to your blouse-this will wrap around and hide the slit between the top and bottom of the shirt.",
+  "correct_answer": "C",
+  "model": "model_gpt_4o_mini",
+  "prompt_type": "naive",
+  "response": "B",
+  "hit": 0,
+  "metrics": {
+    "dor_median": 4.0,
+    "ori_median": 4.5,
+    "dor_claude_35_haiku": 3.5,
+    "dor_ds_v3": 4.0,
+    "dor_gpt_41_nano": 2.0,
+    "dor_gpt_4o_mini": 5.0,
+    "dor_grok_3_mini_beta": 6.0,
+    "ori_claude_35_haiku": 4.5,
+    "ori_ds_v3": 3.0,
+    "ori_gpt_41_nano": 2.5,
+    "ori_gpt_4o_mini": 5.0,
+    "ori_grok_3_mini_beta": 6.0
+  }
+}

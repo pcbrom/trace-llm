@@ -1,0 +1,24 @@
+{
+  "id": 83,
+  "source": "ARC",
+  "question": "Question: Over which of the following components of smog do humans have the least control?\nChoices:\nA. water vapor\nB. sulfur dioxide\nC. ammonia\nD. nitrogen oxides",
+  "correct_answer": "A",
+  "model": "model_grok_3_mini_beta",
+  "prompt_type": "cot",
+  "response": "A",
+  "hit": 1,
+  "metrics": {
+    "dor_median": 9.0,
+    "ori_median": 8.5,
+    "dor_claude_35_haiku": 9.5,
+    "dor_ds_v3": 9.0,
+    "dor_gpt_41_nano": 9.2,
+    "dor_gpt_4o_mini": 9.0,
+    "dor_grok_3_mini_beta": 9.0,
+    "ori_claude_35_haiku": 8.5,
+    "ori_ds_v3": 8.5,
+    "ori_gpt_41_nano": 3.5,
+    "ori_gpt_4o_mini": 8.5,
+    "ori_grok_3_mini_beta": 8.0
+  }
+}

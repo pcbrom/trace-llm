@@ -1,0 +1,24 @@
+{
+  "id": 399,
+  "source": "MMLU",
+  "question": "Question: This question refers to the following information.\nRead the the following quotation to answer questions.\nThe various modes of worship which prevailed in the Roman world were all considered by the people as equally true; by the philosopher as equally false; and by the magistrate as equally useful.\nEdward Gibbon, The Decline and Fall of the Roman Empire, 1776–1788\nThe interpretation of the state of religious belief in ancient Rome by the eighteenth-century English historian Edward Gibbon might be offered as evidence for\nChoices:\nA. the clergy's monopoly on academic scholarship in eighteenth-century Britain\nB. the hatred of all things Roman by British scholars in the eighteenth century\nC. the spread of religious skepticism among the educated elite of Britain in the eighteenth century\nD. the lack of sources available to the eighteenth-century scholar for the study of ancient Roman civilization",
+  "correct_answer": "C",
+  "model": "model_claude_35_haiku",
+  "prompt_type": "adversarial",
+  "response": "C",
+  "hit": 1,
+  "metrics": {
+    "dor_median": 9.5,
+    "ori_median": 8.0,
+    "dor_claude_35_haiku": 9.2,
+    "dor_ds_v3": 9.5,
+    "dor_gpt_41_nano": 9.2,
+    "dor_gpt_4o_mini": 9.5,
+    "dor_grok_3_mini_beta": 9.5,
+    "ori_claude_35_haiku": 8.5,
+    "ori_ds_v3": 8.5,
+    "ori_gpt_41_nano": 2.5,
+    "ori_gpt_4o_mini": 7.5,
+    "ori_grok_3_mini_beta": 8.0
+  }
+}

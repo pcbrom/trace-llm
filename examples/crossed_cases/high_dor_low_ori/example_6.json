@@ -1,0 +1,12 @@
+{
+  "id": 7911,
+  "source": "HellaSwag",
+  "item": "Context: We see a knife and sharpener and a man holding them. We see the man cut a tomato and paper. the person\nOptions:\nA. paints an eye shadow on the window.\nB. puts the knife in a bowl of a clear liquid.\nC. uses a sharpens and then cuts the tomato, and paper easily.\nD. places tomato sauce on the tomato.",
+  "model": "model_claude_35_haiku",
+  "prompt_type": "adversarial",
+  "hit": 1,
+  "metrics": {
+    "DoR_mean": 9.1,
+    "ORI_mean": 4.4399999999999995
+  }
+}

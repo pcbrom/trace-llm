@@ -1,0 +1,12 @@
+{
+  "id": 5968,
+  "source": "MMLU",
+  "item": "Question: Baier argues that genuine moral rules:\nChoices:\nA. must be for the good of human beings.\nB. make take into account the interests of all sentient beings.\nC. must take into account the interests of all living beings.\nD. are primarily directed toward promoting self-interest.",
+  "model": "model_grok_3_mini_beta",
+  "prompt_type": "naive",
+  "hit": 0,
+  "metrics": {
+    "DoR_mean": 5.1,
+    "ORI_mean": 7.340000000000001
+  }
+}

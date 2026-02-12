@@ -1,0 +1,12 @@
+{
+  "id": 2050,
+  "source": "HellaSwag",
+  "item": "Context: [header] How to get perfect eyebrows [title] Find the place where your brows should begin. [step] Finding just the right spot for your inner brows to start is key to creating perfect brows, since starting too far in could throw off the balance of your face. To figure out where your inner brows should start, use the following technique : [substeps] As a general starting point, take a pencil or other long, thin instrument and line it up with the inside corner of your eye.\nOptions:\nA. It should create a slight curve out the corner. Lower it back into position and not over your eyes.\nB. The place where the instrument overlaps your brow is where it should begin. Mark the spot by making a dot there with an eyeliner pencil.\nC. Measure the length of your inner brow and the width of your outer brow. Make sure it is inside the outer portion of your eye.\nD. Draw a dot just above or just above the inner corner of your eye. Make sure that the lines cross a little bit above or below your eyebrows.",
+  "model": "model_ds_v3",
+  "prompt_type": "cot",
+  "hit": 1,
+  "metrics": {
+    "DoR_mean": 9.040000000000001,
+    "ORI_mean": 5.0
+  }
+}

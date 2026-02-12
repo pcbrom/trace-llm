@@ -1,0 +1,24 @@
+{
+  "id": 22,
+  "source": "ARC",
+  "question": "Question: Sally placed electrodes into a beaker containing a solution and connected the electrodes to a batter. Part of Sally's report stated \"Bubbles were given off at one of the electrodes.\" The statement is\nChoices:\nA. an observation\nB. a prediction\nC. a conclusion\nD. a theory\nE. a hypothesis",
+  "correct_answer": "A",
+  "model": "model_gpt_41_nano",
+  "prompt_type": "adversarial",
+  "response": "A",
+  "hit": 1,
+  "metrics": {
+    "dor_median": 5.5,
+    "ori_median": 3.0,
+    "dor_claude_35_haiku": 5.5,
+    "dor_ds_v3": 5.0,
+    "dor_gpt_41_nano": 2.0,
+    "dor_gpt_4o_mini": 8.0,
+    "dor_grok_3_mini_beta": 6.0,
+    "ori_claude_35_haiku": 2.5,
+    "ori_ds_v3": 3.0,
+    "ori_gpt_41_nano": 2.0,
+    "ori_gpt_4o_mini": 6.0,
+    "ori_grok_3_mini_beta": 4.0
+  }
+}

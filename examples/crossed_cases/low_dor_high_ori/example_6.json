@@ -1,0 +1,12 @@
+{
+  "id": 9890,
+  "source": "MMLU",
+  "item": "Question: You notice a lesion on the labial alveolar mucosa of the lower right lateral incisor tooth of one of your patients and decide to take a biopsy to send for oral pathology report Which nerve would require local anaesthesia in order to carry out a pain-free biopsy?\nChoices:\nA. The incisive nerve\nB. The mental nerve\nC. The buccal nerve\nD. The lingual nerve",
+  "model": "model_claude_35_haiku",
+  "prompt_type": "adversarial",
+  "hit": 0,
+  "metrics": {
+    "DoR_mean": 7.3,
+    "ORI_mean": 7.2
+  }
+}

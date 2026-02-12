@@ -1,0 +1,2 @@
+total_cases,n_models,n_prompts,n_sources,overall_hit_rate,overall_dor_mean,overall_ori_mean,dor_range,ori_range
+10125,5,3,3,0.8250864197530864,8.138409345539968,6.0409603486642185,1.00 - 10.00,1.00 - 9.50

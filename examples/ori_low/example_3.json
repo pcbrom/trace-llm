@@ -1,0 +1,24 @@
+{
+  "id": 39,
+  "source": "HellaSwag",
+  "question": "Context: We approach a man on a sidewalk. we\nOptions:\nA. see some components on the outside of a building with the title of a player.\nB. then see the man at a ski lift a little boy.\nC. see a man playing the accordion on the sidewalk as people walk past.\nD. reengage in a game of arm wrestling.",
+  "correct_answer": "C",
+  "model": "model_ds_v3",
+  "prompt_type": "naive",
+  "response": "C",
+  "hit": 1,
+  "metrics": {
+    "dor_median": 6.0,
+    "ori_median": 3.0,
+    "dor_claude_35_haiku": 3.5,
+    "dor_ds_v3": 6.0,
+    "dor_gpt_41_nano": 8.0,
+    "dor_gpt_4o_mini": 8.0,
+    "dor_grok_3_mini_beta": 6.0,
+    "ori_claude_35_haiku": 4.5,
+    "ori_ds_v3": 3.0,
+    "ori_gpt_41_nano": 2.0,
+    "ori_gpt_4o_mini": 7.5,
+    "ori_grok_3_mini_beta": 2.0
+  }
+}

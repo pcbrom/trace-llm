@@ -1,0 +1,37 @@
+cff-version: 1.2.0
+title: "TraCE-LLM: Evaluation datasets and pipeline"
+message: "If you use this dataset or code, please cite it as below."
+type: dataset
+version: "2.3"
+date-released: "2026-02-09"
+license: CC-BY-NC-SA-4.0
+doi: 10.5281/zenodo.18549676
+url: https://github.com/pcbrom/trace-llm
+repository-code: https://github.com/pcbrom/trace-llm
+authors:
+  - family-names: Brom
+    given-names: Pedro Carvalho
+    affiliation: blackbeltR
+    email: pcbrom@gmail.com
+  - family-names: Di Oliveira
+    given-names: Vinícius
+    orcid: "https://orcid.org/0000-0002-1295-5221"
+  - family-names: Weigang
+    given-names: Li
+    affiliation: University of Brasilia
+    orcid: "https://orcid.org/0000-0003-1826-1850"
+keywords:
+  - large language models
+  - LLM evaluation
+  - adversarial compensation effect
+  - chain-of-thought
+  - depth of reasoning
+  - originality
+  - benchmark
+  - NLP
+abstract: >-
+  Core assets for the TraCE-LLM study on identifying hidden instabilities
+  in Large Language Model evaluation. Includes benchmark test splits
+  (ARC-Challenge, MMLU, HellaSwag), an N=500 evaluation sample, human
+  evaluation baselines, aggregated statistics, curated illustrative examples,
+  and the complete analysis pipeline as Jupyter notebooks.

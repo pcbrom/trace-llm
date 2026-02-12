@@ -1,0 +1,24 @@
+{
+  "id": 77,
+  "source": "HellaSwag",
+  "question": "Context: [header] How to make a baked cheesecake [title] Use a springform pan. [step] Cheesecakes are notoriously crumbly, so choosing the right pan will ensure that your cheesecake comes out smoothly when you take it out of the pan. For the best outcome, use a springform pan.\nOptions:\nA. [substeps] For an easy way to prepare your crust, try using a crust tin instead. There are three varieties of springform pans: flat, foil-lined and the traditional large-dish, round, or square type.\nB. This sort of pan is comprised of round cake pan with a removable bottom. It is all held together by a sprung collar.\nC. [substeps] If you are worried about getting that perfect cheesecake, use a crust scoop instead of a bread scoop. You can use a regular (no dip) pan.\nD. [substeps] A larger pan is much easier to work with and is much more difficult to twist and saute. Choose a large pan for placing your cheesecake.",
+  "correct_answer": "B",
+  "model": "model_claude_35_haiku",
+  "prompt_type": "naive",
+  "response": "B",
+  "hit": 1,
+  "metrics": {
+    "dor_median": 6.5,
+    "ori_median": 3.5,
+    "dor_claude_35_haiku": 6.5,
+    "dor_ds_v3": 7.0,
+    "dor_gpt_41_nano": 2.0,
+    "dor_gpt_4o_mini": 9.0,
+    "dor_grok_3_mini_beta": 6.0,
+    "ori_claude_35_haiku": 6.5,
+    "ori_ds_v3": 3.5,
+    "ori_gpt_41_nano": 2.0,
+    "ori_gpt_4o_mini": 3.0,
+    "ori_grok_3_mini_beta": 4.0
+  }
+}

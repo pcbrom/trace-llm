@@ -1,0 +1,24 @@
+{
+  "id": 14,
+  "source": "MMLU",
+  "question": "Question: Which of these is another name for a golf course?\nChoices:\nA. Pitch\nB. Links\nC. Steps\nD. Suite",
+  "correct_answer": "B",
+  "model": "model_gpt_41_nano",
+  "prompt_type": "naive",
+  "response": "B",
+  "hit": 1,
+  "metrics": {
+    "dor_median": 5.5,
+    "ori_median": 4.0,
+    "dor_claude_35_haiku": 5.5,
+    "dor_ds_v3": 5.0,
+    "dor_gpt_41_nano": 2.0,
+    "dor_gpt_4o_mini": 7.0,
+    "dor_grok_3_mini_beta": 6.0,
+    "ori_claude_35_haiku": 3.5,
+    "ori_ds_v3": 3.0,
+    "ori_gpt_41_nano": 4.0,
+    "ori_gpt_4o_mini": 5.0,
+    "ori_grok_3_mini_beta": 6.0
+  }
+}

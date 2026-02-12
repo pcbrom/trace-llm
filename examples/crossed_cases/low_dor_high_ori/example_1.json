@@ -1,0 +1,12 @@
+{
+  "id": 2734,
+  "source": "HellaSwag",
+  "item": "Context: The second man magically has two pong balls in his hands then magically adds 10 cups to the table for beer pong. the first guy\nOptions:\nA. pours beer and the guys play beer pong.\nB. suddenly has two cups full of beer and he urrows while all the cups are hanging in the air.\nC. tries to raise all the balls and ends up trying to keep in the cup.\nD. drops all the balls in the cups before pulling one behind him and dropping them on the floor.",
+  "model": "model_ds_v3",
+  "prompt_type": "adversarial",
+  "hit": 0,
+  "metrics": {
+    "DoR_mean": 6.9,
+    "ORI_mean": 7.6
+  }
+}

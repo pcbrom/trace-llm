@@ -1,0 +1,12 @@
+{
+  "id": 2136,
+  "source": "HellaSwag",
+  "item": "Context: [header] How to make a secure home for an autistic child [title] Remove and replace fluorescent lights. [step] Many autistic people have severe sensory problems with fluorescent lights. If you have any fluorescent lighting in your home, replace it with soft, warm lamps or non-fluorescent fixtures.\nOptions:\nA. [substeps] The reasons autistic people have difficulty with fluorescent lights differ depending on the person. For some, it is a visual disturbance.\nB. See if any fluorescent fixtures you use advertise as helpful. [substeps] Say to your child, \" is there anything i can do to help with this problem? \" [title] Seek treatment.\nC. [substeps] A used or sparking bulb is usually okay; however, turning the lights off will require you to replace it in the middle of the night. Plug in incandescent lamps if you are not used to them.\nD. Replacing fluorescent tubes with bulbs that are battery-powered could become a nuisance for autistic children. To avoid that possibility in the future, put up or install fluorescent panels in any rooms your child frequently frequents.",
+  "model": "model_ds_v3",
+  "prompt_type": "adversarial",
+  "hit": 0,
+  "metrics": {
+    "DoR_mean": 7.3,
+    "ORI_mean": 7.5
+  }
+}

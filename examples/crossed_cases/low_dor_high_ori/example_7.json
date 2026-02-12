@@ -1,0 +1,12 @@
+{
+  "id": 1627,
+  "source": "HellaSwag",
+  "item": "Context: [header] How to scrunch thin hair overnight [title] Take a shower. [title] Wrap your hair up in a towel and get dressed and what not. [title] After about two minutes, while your hair is still pretty wet, take it out of the towel.\nOptions:\nA. [title] Use your hands and wet your hair generously with warm water. [title] Use your fingers to separate your hair into small sections and put that section in the middle and the rest around it.\nB. [title] Comb through your wet hair and get any tangles out. [title] Apply clarifying shampoo to the parted sections.\nC. [title] Part your hair where you want it. [title] Brush your hair so there are no tangles or knots.\nD. [title] Gently spray any residue out of your hair. [title] Loosely scrunch out as much of the shampoo as you can with a plastic spatula.",
+  "model": "model_gpt_41_nano",
+  "prompt_type": "adversarial",
+  "hit": 0,
+  "metrics": {
+    "DoR_mean": 7.3,
+    "ORI_mean": 7.2
+  }
+}

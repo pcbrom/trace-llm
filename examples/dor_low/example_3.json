@@ -1,0 +1,24 @@
+{
+  "id": 485,
+  "source": "ARC",
+  "question": "Question: Which is an example of a learned behavior?\nChoices:\nA. A tiger hunts a deer.\nB. A mouse runs from a coyote.\nC. A salmon migrates up a river.\nD. A woodpecker taps a tree for insects.",
+  "correct_answer": "A",
+  "model": "model_gpt_4o_mini",
+  "prompt_type": "naive",
+  "response": "D",
+  "hit": 0,
+  "metrics": {
+    "dor_median": 5.0,
+    "ori_median": 5.5,
+    "dor_claude_35_haiku": 6.5,
+    "dor_ds_v3": 4.0,
+    "dor_gpt_41_nano": 2.0,
+    "dor_gpt_4o_mini": 5.0,
+    "dor_grok_3_mini_beta": 7.5,
+    "ori_claude_35_haiku": 6.5,
+    "ori_ds_v3": 5.0,
+    "ori_gpt_41_nano": 3.0,
+    "ori_gpt_4o_mini": 5.5,
+    "ori_grok_3_mini_beta": 6.0
+  }
+}

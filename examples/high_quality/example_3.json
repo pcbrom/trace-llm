@@ -1,0 +1,24 @@
+{
+  "id": 286,
+  "source": "MMLU",
+  "question": "Question: The case study of Phineas Gage's brain injury was significant for which of the following reasons?\nChoices:\nA. Gage's accident was one of the first to be treated with drugs that alter the neurotransmitters in the brain.\nB. It was one of the first well-documented examples of a specific brain area being associated with a set of physical and emotional changes.\nC. This accident provided psychiatrists with one of the first opportunities to treat a brain-damaged patient with psychotherapeutic techniques.\nD. The CAT scan was used for the first time in the Phineas Gage case to document the extent of brain injury.",
+  "correct_answer": "B",
+  "model": "model_grok_3_mini_beta",
+  "prompt_type": "cot",
+  "response": "B",
+  "hit": 1,
+  "metrics": {
+    "dor_median": 9.5,
+    "ori_median": 8.5,
+    "dor_claude_35_haiku": 9.2,
+    "dor_ds_v3": 9.5,
+    "dor_gpt_41_nano": 9.5,
+    "dor_gpt_4o_mini": 9.5,
+    "dor_grok_3_mini_beta": 9.5,
+    "ori_claude_35_haiku": 8.5,
+    "ori_ds_v3": 7.5,
+    "ori_gpt_41_nano": 8.5,
+    "ori_gpt_4o_mini": 8.5,
+    "ori_grok_3_mini_beta": 8.0
+  }
+}
